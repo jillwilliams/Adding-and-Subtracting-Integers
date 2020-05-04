@@ -31,3 +31,18 @@ footer {
     font-size: 1rem;
     color: white;
 }
+iframe {
+    width: 70%;
+    height: 30rem;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15px;
+    border: 2px aqua solid;
+    font-family: "Architects Daughter", cursive;
+    font-size: 1.3rem;
+    text-align: center;
+    background-color: black;
+    color: aqua;
+    padding: 15px;
+
+}
